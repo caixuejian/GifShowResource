@@ -1,0 +1,44 @@
+{
+    "result": 1, 
+    "prefixes": [
+        "http://static.yximgs.com/s1"
+    ], 
+    "defaultResource": "android/resource.zip", 
+    "ksPlayerModelRegex": "che2-tl|chm-tl00|che-tl|lenovo a850|coolpad 87|vivo x5", 
+    "detail_abtest_probability": 0.0117, 
+    "encodeConfig": {
+        "videoBitrate": 240000, 
+        "videoQmin": 10, 
+        "videoQmax": 30
+    }, 
+    "security_app_package_names": [
+        "com.qihoo360.mobilesafe", 
+        "com.lbe.security.miui", 
+        "yulong.android.security", 
+        "com.vivo.securedaemonservice", 
+        "com.lenovo.safecenter", 
+        "com.kingroot.master", 
+        "com.lbe.security", 
+        "com.qihoo.antivirus", 
+        "com.anyisheng.doctoran", 
+        "kvpioneer.cmcc", 
+        "com.cleanmaster.security", 
+        "com.comodo.pimsecure", 
+        "com.uusafe.appmaster", 
+        "com.meizu.safe", 
+        "com.miui.securitycenter", 
+        "com.gionee.navil", 
+        "com.oppo.safe", 
+        "cn.nubia.security", 
+        "com.lenovo.security", 
+        "com.huawei.systemmanager", 
+        "com.yulong.android.seccenter", 
+        "com.aliyun.SecurityCenter",
+        "com.iqoo.secure",
+        "com.tencent.qqpimsecure"
+    ], 
+    "upload_contacts_interval": 2592000000, 
+    "auto_upload_contacts_on": true, 
+    "auto_origin_name_on": true, 
+    "origin_name_on": true
+}
