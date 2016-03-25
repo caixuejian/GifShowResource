@@ -35,7 +35,11 @@
         "com.yulong.android.seccenter", 
         "com.aliyun.SecurityCenter",
         "com.iqoo.secure",
-        "com.tencent.qqpimsecure"
+        "com.tencent.qqpimsecure",
+	"com.aliyun.SecurityCenter",
+	"com.iqoo.secure",
+	"com.tencent.qqpimsecure",
+	"com.huawei.securitymgr"
     ], 
     "upload_contacts_interval": 2592000000, 
     "auto_upload_contacts_on": true, 
